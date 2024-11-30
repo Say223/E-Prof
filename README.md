@@ -1,8 +1,11 @@
-# React + Vite
+# E-Prof
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dedicated platform for teachers to submit their availability and assist in exam scheduling. This tool bridges the gap between faculty and administration, ensuring effective coordination.
 
-Currently, two official plugins are available:
+# Key Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Submit and update availability for exam-related duties.
+-View assigned exam schedules and invigilation tasks.
+-Collaborate with administrators on finalizing schedules.
+-Role-based access to maintain data security.
+
