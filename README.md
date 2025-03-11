@@ -1,11 +1,10 @@
-# E-Prof
+# E-Prof | Smart Scheduling for Teachers
+E-Prof is a specialized platform designed for teachers to streamline exam scheduling by submitting their availability and collaborating with administrators. This tool enhances coordination between faculty and administration, ensuring a smooth and efficient scheduling process.
 
-A dedicated platform for teachers to submit their availability and assist in exam scheduling. This tool bridges the gap between faculty and administration, ensuring effective coordination.
-
-## Key Features:
-
--Submit and update availability for exam-related duties.
--View assigned exam schedules and invigilation tasks.
--Collaborate with administrators on finalizing schedules.
--Role-based access to maintain data security.
+## ✨ Key Features
+Availability Management – Submit and update availability for exam-related duties.
+Exam & Invigilation Schedule – Easily view assigned exam supervision tasks.
+Seamless Collaboration – Work with administrators to finalize exam timetables.
+Secure Role-Based Access – Maintain data integrity with controlled user permissions.
+📅 Simplifying exam scheduling for a hassle-free experience!
 
